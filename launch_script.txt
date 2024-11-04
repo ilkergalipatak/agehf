@@ -1,0 +1,2 @@
+python project.py --weights head.pt --view-img --source 0 --device 0
+https://drive.google.com/file/d/1ouguXe4EscfviuSEwFFRuutyB6UVzYX3/view?usp=sharing
